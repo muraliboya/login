@@ -1,0 +1,29 @@
+.Login{
+    text-align: center;
+    color: black;
+}
+.login{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.Border{
+    border: skyblue;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 170px;
+    margin-right: 100px;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    
+}
+.signup{
+    color:green;
+    position:-ms-page;
+}
+.class{
+    text-align: center;
+}
